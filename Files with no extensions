@@ -1,0 +1,10 @@
+"path": "\w*",
+
+"path": "build",
+"path": "cli",
+"path": "extensions",
+"path": "remote",
+"path": "resources",
+"path": "scripts",
+"path": "src",
+"path": "test",
